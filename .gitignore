@@ -132,3 +132,11 @@ dist
 # JetBrains IDE project files
 .idea/
 *.iml
+
+# Ignore the entire .vscode folder
+.vscode/
+
+# But keep specific shared files
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
