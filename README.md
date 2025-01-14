@@ -10,18 +10,12 @@
 ### **프론트엔드**
 - **React**: 사용자 인터페이스 구축
 - **React Router**: 클라이언트 사이드 라우팅
-- **Styled-Components / TailwindCSS**: 스타일링
+- **CSS Module**: 컴포넌트 단위 스타일링
 - **Axios**: API 연동
 
 ### **백엔드**
-
-[//]: # (- **Node.js**: 서버 환경)
-
-[//]: # (- **Express**: 백엔드 프레임워크)
-
-[//]: # (- **MongoDB**: 데이터베이스)
-
-[//]: # (- **Mongoose**: MongoDB를 위한 ODM&#40;Object Data Modeling&#41;)
+- **Spring Boot**: 백엔드 프레임워크
+- **PostgreSQL**: 데이터베이스
 
 ---
 
@@ -30,3 +24,4 @@
 - 상품 상세 정보 보기
 - 장바구니에 상품 추가/삭제
 - 사용자 계정 관리 (로그인/회원가입)
+- CSS Module을 활용한 컴포넌트 기반 스타일링
